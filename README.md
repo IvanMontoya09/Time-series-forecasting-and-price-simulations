@@ -5,7 +5,8 @@
  * Optimization of inventory cicle
  * Accuracy of demand predictions to optimize prices
 
-Resources/tools used to deploy the project:
-* Python
+Tools used to deploy the project:
+* Python: Pandas, Numpy, Seaborn, Matplotlib, SckitLearn, Statsmodel,PROPHET by Meta
 * SQL
 * Power Bi
+* Supervised ML
